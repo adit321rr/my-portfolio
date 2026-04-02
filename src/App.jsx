@@ -87,7 +87,7 @@ export default function App() {
       badgeStyle: "text-blue-400 bg-blue-500/10",
       description:
         "Proyek kolaborasi penyelesaian program ASAH (Dicoding x Accenture) dengan fokus implementasi Machine Learning.",
-      link: "#",
+      link: "https://github.com/wonderwall3393-alt/capstone-project.git",
       linkText: "View Details →",
     },
   ];
