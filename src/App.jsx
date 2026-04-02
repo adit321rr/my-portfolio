@@ -15,7 +15,7 @@ export default function App() {
       badgeStyle: "text-blue-400 bg-blue-500/10",
       description:
         "Pengembangan sistem kontrol suara berbahasa Arab berbasis arsitektur WaveNet untuk menggerakkan karakter dalam Endless Runner Game. (Tugas Akhir)",
-      link: "#",
+      link: "https://github.com/adit321rr/Endless-Runner-master-main.git",
       linkText: "View Details →",
     },
     {
